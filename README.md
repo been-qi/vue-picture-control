@@ -1,4 +1,4 @@
-# picture-control
+# vue-picture-control
 
 ## Project setup
 
@@ -41,6 +41,6 @@ app.use(pictureControl)
 //template.vue 调用
 <picture-control :imgSrc="imgSrc"></picture-control>
 
-imgSrc支持服务器路径，本地文件使用require("./img.png")
+imgSrc支持服务器路径，本地文件请使用:imgSrc = require("./img.png")
 
 ```
