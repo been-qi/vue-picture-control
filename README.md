@@ -44,3 +44,6 @@ app.use(pictureControl)
 imgSrc支持服务器路径，本地文件请使用:imgSrc = require("./img.png")
 
 ```
+## TODO
+
+根据鼠标位置缩放图片
