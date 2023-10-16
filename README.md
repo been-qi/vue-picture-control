@@ -27,6 +27,7 @@ yarn lint
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
+npm [address](https://www.npmjs.com/package/vue-picture-control)
 
 ## 使用方法
 
